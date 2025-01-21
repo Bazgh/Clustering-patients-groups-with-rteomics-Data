@@ -8,4 +8,6 @@ We used an Unsupervised Method- K-Means and were able to find 8 different subpou
 
 ![Sub populations]([https://github.com/username/repo-name/blob/main/image.png](https://github.com/Bazgh/Clustering-patients-groups-with-rteomics-Data/blob/main/Untitled.png?raw=true)))
 
+The Next step of our project was to Find the most important features in grouping the patients. Our pipline for this objective was Decision Tree which provides intrepretable results. Below is the Bar chart showing the 7 dominant Proteins grouping the data.
+
 
