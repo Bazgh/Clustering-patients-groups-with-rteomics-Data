@@ -9,7 +9,8 @@ We used an Unsupervised Method- K-Means and were able to find 8 different subpou
 ![Sub populations](https://github.com/Bazgh/Clustering-patients-groups-with-rteomics-Data/blob/main/Untitled.png?raw=true)
 
 The Next step of our project was to Find the most important features in grouping the patients. Our pipline for this objective was Decision Tree which provides intrepretable results. Below is the Bar chart showing the 7 dominant Proteins grouping the data.
-![Important Proteins in Bladder Cancer](https://github.com/Bazgh/Clustering-patients-groups-with-rteomics-Data/blob/main/important_proteins.png?raw=true)
+
+![Important Proteins in Bladder Cancer](https://github.com/Bazgh/Clustering-patients-groups-with-rteomics-Data/blob/main/Untitled.png?raw=true)
 
 The identified features, particularly the dominant proteins **CCNE1**, **S100A9**, **CTNNB1**, **UPK3A**, **NRP1**, **CXCR4**, and **GADD45A**, provide actionable insights for drug discovery, patient stratification, and personalized medicine.
 
