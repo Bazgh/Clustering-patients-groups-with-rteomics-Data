@@ -1,5 +1,5 @@
 # Clustering-patients-groups-with-proteomics-Data
-Omics Projects- Fall 2024- University of Bern
+Omics Project- Fall 2024- University of Bern
 
 Project Description: 
 This Project aimed at grouping patients with Bladder Cancer, which is key in development of personalized treatment.
